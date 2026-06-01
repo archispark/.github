@@ -5,9 +5,10 @@
   Model enterprise architecture. Query it with AI.</p>
 
   <p>
-    <a href="https://archispark.fr"><img src="https://img.shields.io/badge/archispark.fr-website-892FE8?style=flat-square" alt="Website"/></a>
-    <a href="https://docs.archispark.fr"><img src="https://img.shields.io/badge/docs-getting%20started-1A87FF?style=flat-square" alt="Docs"/></a>
-    <a href="https://github.com/archispark/archispark"><img src="https://img.shields.io/badge/license-AG" alt="AGPL v3 License"/></a>
+    <a href="https://archispark.ai"><img src="https://img.shields.io/badge/archispark.ai-website-892FE8?style=flat-square" alt="Website"/></a>
+    <a href="https://docs.archispark.ai"><img src="https://img.shields.io/badge/docs-getting%20started-1A87FF?style=flat-square" alt="Docs"/></a>
+    <a href="https://github.com/archispark/archispark"><img src="https://img.shields.io/github/license/archispark/.github
+    " alt="AGPL v3 License"/></a>
     <a href="https://github.com/archispark/archispark"><img src="https://img.shields.io/badge/ArchiMate-3.1-FF1D5D?style=flat-square" alt="ArchiMate 3.1"/></a>
   </p>
 </div>
