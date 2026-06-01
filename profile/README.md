@@ -78,7 +78,7 @@ Then describe your architecture in plain language:
  and a Serving relationship between them."
 ```
 
-The 25 available tools cover element and relationship CRUD, view rendering, AOEF import/export, property definitions and workspace management. → [Full MCP tool reference](https://docs.archispark.fr/mcp-tools/)
+The 25 available tools cover element and relationship CRUD, view rendering, AOEF import/export, property definitions and workspace management. → [Full MCP tool reference](https://docs.archispark.io/mcp-tools/)
 
 ## Repositories
 
