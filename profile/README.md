@@ -7,9 +7,7 @@
   <p>
     <a href="https://archispark.ai"><img src="https://img.shields.io/badge/archispark.ai-website-892FE8?style=flat-square" alt="Website"/></a>
     <a href="https://docs.archispark.ai"><img src="https://img.shields.io/badge/docs-getting%20started-1A87FF?style=flat-square" alt="Docs"/></a>
-    <a href="https://img.shields.io/github/license/archispark/.github
-    "><img src="https://img.shields.io/github/license/archispark/.github
-    " alt="AGPL v3 License"/></a>
+    <a href="https://img.shields.io/github/license/archispark/.github"><img src="https://img.shields.io/github/license/archispark/.github" alt="AGPL v3 License"/></a>
     <a href="https://github.com/archispark/archispark"><img src="https://img.shields.io/badge/ArchiMate-3.1-FF1D5D?style=flat-square" alt="ArchiMate 3.1"/></a>
   </p>
 </div>
