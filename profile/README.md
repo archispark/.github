@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://archispark.fr/avatar.svg" width="96" height="96" alt="ArchiSpark" />
+  <img src="./logo.svg" width="96" height="96" alt="ArchiSpark" />
   <h1>ArchiSpark</h1>
   <p><strong>ArchiMate 3.1 modeling platform — web UI, REST API and MCP server.</strong><br/>
   Model enterprise architecture. Query it with AI.</p>
@@ -7,7 +7,7 @@
   <p>
     <a href="https://archispark.fr"><img src="https://img.shields.io/badge/archispark.fr-website-892FE8?style=flat-square" alt="Website"/></a>
     <a href="https://docs.archispark.fr"><img src="https://img.shields.io/badge/docs-getting%20started-1A87FF?style=flat-square" alt="Docs"/></a>
-    <a href="https://github.com/archispark/archispark"><img src="https://img.shields.io/badge/license-MIT-22c55e?style=flat-square" alt="MIT License"/></a>
+    <a href="https://github.com/archispark/archispark"><img src="https://img.shields.io/badge/license-AG" alt="AGPL v3 License"/></a>
     <a href="https://github.com/archispark/archispark"><img src="https://img.shields.io/badge/ArchiMate-3.1-FF1D5D?style=flat-square" alt="ArchiMate 3.1"/></a>
   </p>
 </div>
