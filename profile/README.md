@@ -87,7 +87,6 @@ The 25 available tools cover element and relationship CRUD, view rendering, AOEF
 | [archispark](https://github.com/archispark/archispark) | Core platform — API, MCP server and web UI |
 | [archispark-docs](https://github.com/archispark/archispark-docs) | Documentation site |
 | [archispark-landing](https://github.com/archispark/archispark-landing) | Landing page |
-| [archispark-docker](https://github.com/archispark/archispark-docker) | Docker Compose setup |
 
 ---
 
